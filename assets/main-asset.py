@@ -28,4 +28,4 @@ time.sleep(1)
 keyboard.release('d')
 
 
-input()
+exit()
